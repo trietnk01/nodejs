@@ -1,0 +1,14 @@
+{
+  "name": "quoctuan",
+  "version": "1.0.0",
+  "description": "Khoa hoc lap trinh nodejs tai quoctuan.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QuocTuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
